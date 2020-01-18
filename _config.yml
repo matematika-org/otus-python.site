@@ -1,0 +1,12 @@
+# Site settings
+title: otus-python.site
+
+description: Изучаем Python вместе
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://otus-python.site" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap

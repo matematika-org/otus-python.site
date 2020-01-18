@@ -1,0 +1,21 @@
+[Unit]
+Description=otus-python.site
+
+Requires=docker.service
+After=docker.service
+
+[Service]
+
+Restart=always
+TimeoutStartSec=0
+ExecStartPre=-/usr/bin/docker kill otus-python.site
+ExecStartPre=-/usr/bin/docker rm otus-python.site
+ExecStartPre=-/usr/bin/docker pull marley/otus-python.site:latest
+ExecStart=/bin/sh -c '/usr/bin/docker run --name otus-python.site   \
+ -p 4019:80                        \
+ marley/otus-python.site'
+ExecStop=-/usr/bin/docker kill otus-python.site
+ExecStop=-/usr/bin/docker rm otus-python.site
+
+[Install]
+WantedBy=multi-user.target
