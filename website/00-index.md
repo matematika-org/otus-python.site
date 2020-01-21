@@ -12,7 +12,7 @@ permalink: /
 
 <br/>
 
-### Python и DS Challenge
+### [Challenge] Python и DS Challenge
 
 
 За основу взят курс Python Fundamantals от Deitel.
@@ -34,3 +34,21 @@ permalink: /
 И пока не посмотрели, никаких ютубчиков.
 
 Кому интересно, присоединяйтесь.
+
+
+<br/>
+
+### [Challenge] Python Django Dev To Deployment
+
+Дополнительный challenge для тех у кого есть пол часа на практику.
+
+Разбираем курс:
+
+https://www.udemy.com/course/python-django-dev-to-deployment/
+
+
+Исходные коды участников:
+
+<ul>
+  <li><a href="https://bitbucket.org/marley-python/python-django-dev-to-deployment/src/master/">marley</li>
+</ul>
