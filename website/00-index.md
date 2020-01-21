@@ -40,21 +40,59 @@ permalink: /
 
 ### [Challenge] Python Django Dev To Deployment
 
-Дополнительный challenge для тех у кого есть пол часа на практику.
+Дополнительный challenge для тех у кого есть пол часа в день на практику.
 
 Разбираем курс:
 
 https://www.udemy.com/course/python-django-dev-to-deployment/
 
+<br/>
 
-Исходные коды участников:
+В проекте создается сайт для компании, работающей на рынке недвижимости.
+
+<br/>
+
+Создавайте проекты на github и после каждого видео (если в нем что-то делалось практическое) создавайте коммит.
+
+
+В файле Readme.md писать команды которые выполнял автор.
+
+Важные изменения в дизайне приложения фиксировать в скриншотах и добавлять их также в проект.
+
+
+<br/>
+
+**Исходные коды участников:**
 
 <ul>
-  <li><a href="https://bitbucket.org/marley-python/python-django-dev-to-deployment/src/master/">marley</a></li>
+  <li><a href="https://bitbucket.org/marley-python/python-django-dev-to-deployment/src/master/">Marley</a></li>
   <li><a href="https://github.com/snake-15/udemy_django">Max King</a></li>
-
-
-
-
-
 </ul>
+
+
+<br/>
+
+### [Инфо] Мнение чувака из чата по хорошим материалам для изучения python
+
+https://t.me/coursehunters_skladchina/701
+
+Пишут, что хорошая книга:
+
+https://t.me/coursehunters_skladchina/703
+
+
+<br/>
+
+### [Инфо] Кто вообще с 0 и не может на английском
+
+[SkillBox] Python-разработчик [2019, RUS]
+
+Никто не смотрел. 
+Но сами авторы пишут: "Курс отлично подойдет для тех, кто совершенно не знаком даже с базовыми понятиями программирования, но хотел бы начать развиваться в IT-индустрии."
+
+<br/>
+
+
+[itvdn] Видео курс по Python - (Starter)
+
+Этот курс расскажет о ключевых моментах использования python, его возможностях и приминения в разработке
