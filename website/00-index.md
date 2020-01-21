@@ -50,5 +50,11 @@ https://www.udemy.com/course/python-django-dev-to-deployment/
 Исходные коды участников:
 
 <ul>
-  <li><a href="https://bitbucket.org/marley-python/python-django-dev-to-deployment/src/master/">marley</li>
+  <li><a href="https://bitbucket.org/marley-python/python-django-dev-to-deployment/src/master/">marley</a></li>
+  <li><a href="https://github.com/snake-15/udemy_django">Max King</a></li>
+
+
+
+
+
 </ul>
